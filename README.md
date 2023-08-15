@@ -3,7 +3,7 @@
 About
 ---
 
-You have a Known plugin with a PHP object exploit?, but you need to determine which library to use to exploit the issue and run with phpgcc.
+You have a Known plugin with a PHP object exploit?, but you need to determine which library to use to exploit the issue and run with phpggc.
 
 This should help you out.
 
