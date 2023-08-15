@@ -3,11 +3,9 @@
 About
 ---
 
-Got Know a plugin has a php object exploit but need to find which lib to use?
+You have a Known plugin with a PHP object exploit?, but you need to determine which library to use to exploit the issue and run with phpgcc.
 
-This will bruteforce all plugins and then find a plugin that is using a known lib that could help.
-
-It's not perfect but it's better than nothing!
+This should help you out.
 
 Example Output
 ----
