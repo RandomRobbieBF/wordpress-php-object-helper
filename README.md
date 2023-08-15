@@ -13,7 +13,7 @@ Example Output
 ----
 
 ```
-$ python3 plugins.py -u http://wordpress.lan -f list.txt
+$ python3 plugins.py -u http://wordpress.lan -f wp-plugins.lst
 Processing URLs: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 26/26 [00:00<00:00, 26.74it/s]
 Found the following plugins:
 http://wordpress.lan/wp-content/plugins/updraftplus/readme.txt
